@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1395685774 source:c:\users\gabz\documents\github\tarea05_gacd_leerlaberinto\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+	<fstream>
+
